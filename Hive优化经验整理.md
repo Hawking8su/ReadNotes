@@ -57,3 +57,4 @@ set hive.vectorized.execution.enabled = true
 
 TODO:
 1. 数据建模经验整理
+2. 表分桶bucketing的实现和优缺点
